@@ -10,9 +10,9 @@ status-website:
   logoUrl: https://www.coplie.com/img/icons/android-chrome-192x192.png
   name: Coplie
   introTitle: "Saiba o que seus colaboradores acham do seu ambiente de trabalho"
-  introMessage: "Obtenha o melhor software de tracking de denúncias para sua empresa e esteja sempre pronto para que o ambiente de trabalho de seus colaboradores esteja o melhor possível
+  introMessage: Obtenha o melhor software de tracking de denúncias para sua empresa e esteja sempre pronto para que o ambiente de trabalho de seus colaboradores esteja o melhor possível
   navbar:
     - title: Status
       href: /
-    - title: Denúncie
+    - title: Denuncie
       href: https://app.coplie.com
