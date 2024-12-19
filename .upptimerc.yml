@@ -6,7 +6,7 @@ sites:
     url: https://www.coplie.com
 
 status-website:
-  baseUrl: : /upptime
+  baseUrl: /upptime
   logoUrl: https://www.coplie.com/img/icons/android-chrome-192x192.png
   name: Coplie
   introTitle: "Saiba o que seus colaboradores acham do seu ambiente de trabalho"
