@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Coplie
     url: https://www.coplie.com
+  - name: Flow
+    url: https://n8n-xj4o.onrender.com/webhook/88e250e4-373d-44c5-98b3-c62e0713439a
 
 status-website:
   baseUrl: /upptime
