@@ -22,7 +22,7 @@
     "url": "https://n8n-xj4o.onrender.com/webhook/88e250e4-373d-44c5-98b3-c62e0713439a",
     "icon": "https://n8n-xj4o.onrender.com/favicon.ico",
     "slug": "flow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "99.15%",
@@ -34,6 +34,7 @@
     "timeMonth": 923,
     "timeYear": 923,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2025-03-02": 21,
       "2025-03-01": 19
     }
